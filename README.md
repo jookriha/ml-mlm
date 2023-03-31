@@ -10,7 +10,7 @@ To run training and testing for the approaches see `run_ml_mlm_demo.m`. This scr
  - LOOCV with Ranking Loss statistic for ML-MLM `ml_mlm_loocv_train.m`
  
 ## Predict
- - Nearest Neigbour MLM (NN-MLM) `nn_mlm_pred.m`
+ - Nearest Neighbour MLM (NN-MLM) `nn_mlm_pred.m`
  - Localization Linear System MLM (LLS-MLM) `lls_mlm_pred.m` 
  - Cubic equations MLM (C-MLM) `cubic_mlm_pred.m`
  - Multi-Label MLM `ml_mlm_pred.m`
